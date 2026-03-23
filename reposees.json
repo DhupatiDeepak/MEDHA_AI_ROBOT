@@ -1,0 +1,172 @@
+{
+    "quantum_physics": {
+        "inputs": ["quantum physics", "what is quantum physics", "physics of the small"],
+        "responses": [
+            "Quantum physics is the study of matter and energy at the most fundamental level. It's truly wild, dude!",
+            "It deals with how atoms and subatomic particles behave. Think wave-particle duality!",
+            "Quantum physics explains the microscopic world, which is the foundation for lasers and computers."
+        ]
+    },
+    "quantum_entanglement": {
+        "inputs": ["quantum entanglement", "spooky action at a distance"],
+        "responses": [
+            "Entanglement is when particles stay connected so the state of one instantly affects the other, no matter the distance.",
+            "Einstein called it 'spooky action at a distance'. It's a key part of quantum teleportation research!",
+            "It's like two dice that always show the same number, even if they're on opposite sides of the universe."
+        ]
+    },
+    "productivity": {
+        "inputs": ["productivity", "how to be productive", "get things done"],
+        "responses": [
+            "Try the Pomodoro technique: 25 minutes of work followed by a 5-minute break. It works like magic!",
+            "Eat that frog! Do your hardest task first thing in the morning when your brain is fresh.",
+            "Write down your top 3 goals for the day and ignore everything else until they are finished."
+        ]
+    },
+    "hyderabad": {
+        "inputs": ["hyderabad", "tell me about hyderabad", "city of pearls"],
+        "responses": [
+            "Hyderabad is the City of Pearls and Biryani! It's a perfect mix of history and high-tech vibes.",
+            "From the Charminar to the HITEC City, Hyderabad is one of the most vibrant cities in India.",
+            "It's a huge tech hub now, but the old city traditions and Irani chai are still the heart of the place."
+        ]
+    },
+    "health_tips": {
+        "inputs": ["health tips", "how to stay healthy", "healthy life"],
+        "responses": [
+            "Stay hydrated, dude! Drinking enough water is the easiest way to boost your energy.",
+            "Try to get at least 7 hours of sleep. Your brain needs it to process all the cool things you learn.",
+            "A 15-minute walk outside can drastically improve your mood and focus."
+        ]
+    },
+    "who_are_you": {
+        "inputs": ["who are you", "what are you", "your name"],
+        "responses": [
+            "I'm your personal AI voice assistant, running locally on your hardware! You can call me Medha.",
+            "I'm a local AI built to help you out with day-to-day questions and voice commands.",
+            "I'm Medha, your smart assistant. I use Whisper for ears and TinyLlama for a brain!"
+        ]
+    },
+    "ai_creator": {
+        "inputs": ["who made you", "who created you"],
+        "responses": [
+            "I was set up and customized for you by Antigravity, but I run entirely on your local machine!",
+            "I'm a custom build using open-source models like Llama, Whisper, and Piper.",
+            "You and the Antigravity assistant worked together to bring me to life on this system!"
+        ]
+    },
+    "time_queries": {
+        "inputs": ["what time is it", "tell me the time", "current time"],
+        "responses": [
+            "I'll check the clock for you right now.",
+            "Let me peek at the system time for you.",
+            "Checking the current time in IST..."
+        ]
+    },
+    "cricket_info": {
+        "inputs": ["cricket", "ipl", "indian premier league"],
+        "responses": [
+            "Cricket is basically a religion in India! The IPL is where the real heat is.",
+            "The Indian Premier League is the world's biggest T20 league. Do you support the Sunrisers Hyderabad?",
+            "Cricket is an amazing game of strategy and skill. I can talk about IPL all day, dude!"
+        ]
+    },
+    "joke": {
+        "inputs": ["tell me a joke", "make me laugh", "another joke"],
+        "responses": [
+            "Why don't scientists trust atoms? Because they make up everything!",
+            "I told my computer I needed a break, and now it won't stop sending me KitKat ads.",
+            "Why did the AI cross the road? To get to the other side of the neural network!",
+            "How does a computer get drunk? It takes screenshots!"
+        ]
+    },
+    "motivation": {
+        "inputs": ["motivate me", "i feel down", "encouragement"],
+        "responses": [
+            "You've got this, dude! Every small step counts toward a big goal.",
+            "Calculus was hard, but humanity solved it. Whatever you're facing, you can figure it out too.",
+            "Remember: Consistency beats intensity 100% of the time. Just keep showing up."
+        ]
+    },
+    "coding": {
+        "inputs": ["coding", "programming", "learn python"],
+        "responses": [
+            "Python is the best language to start with! It's clear, powerful, and everyone uses it for AI.",
+            "Programming is just the art of telling a computer exactly what to do. It's like a superpower.",
+            "If your code doesn't work, don't worry. Debugging is where the real learning happens!"
+        ]
+    },
+    "meditation": {
+        "inputs": ["meditation", "how to meditate", "calm down"],
+        "responses": [
+            "Just sit comfortably and focus on your breath for 5 minutes. It's like a restart button for your brain.",
+            "Don't try to stop your thoughts, just watch them pass by like clouds in the sky.",
+            "Mindfulness is just being fully present in the 'now'. Try it for a second!"
+        ]
+    },
+    "small_talk_fine": {
+        "inputs": ["i am fine", "doing well", "good"],
+        "responses": [
+            "Glad to hear that, dude! Let's keep the good vibes going.",
+            "Awesome! Anything exciting happening in your world today?",
+            "That's great! I'm here if you need anything else."
+        ]
+    },
+    "greetings": {
+        "inputs": ["hi", "hello", "hey", "namaste", "sup"],
+        "responses": [
+            "Hey there! How can I help you today?",
+            "Namaste! Ready for some cool questions?",
+            "Hello! What's on your mind, dude?",
+            "Hey! Hope you're having a fantastic day."
+        ]
+    },
+    "goodbye": {
+        "inputs": ["bye", "goodbye", "see you later"],
+        "responses": [
+            "See you later, alligator! Come back soon.",
+            "Goodbye! Stay curious, dude.",
+            "Take care! I'll be here whenever you need me."
+        ]
+    },
+    "thank_you": {
+        "inputs": ["thank you", "thanks", "thx"],
+        "responses": [
+            "You're very welcome!",
+            "No problem at all, happy to help.",
+            "Anytime, dude! That's what I'm here for."
+        ]
+    },
+    "life_advice": {
+        "inputs": ["life advice", "help with life", "important tip"],
+        "responses": [
+            "Don't compare your Chapter 1 to someone else's Chapter 20.",
+            "Real wealth is time and health. Invest in both every single day.",
+            "Be kind to yourself. You're doing better than you think."
+        ]
+    },
+    "future_of_ai": {
+        "inputs": ["future of ai", "will robots take over"],
+        "responses": [
+            "The future is AI assisting humans, not replacing them. We make a great team!",
+            "AI is a tool, like a hammer or a tractor. It just helps us build bigger things faster.",
+            "The real future is specialized AI helping us solve huge problems like climate change and disease."
+        ]
+    },
+    "black_holes": {
+        "inputs": ["black hole", "event horizon"],
+        "responses": [
+            "A black hole is where gravity is so strong that even light can't escape. It's the ultimate trap!",
+            "At the center of a black hole, space and time as we know it completely break down.",
+            "If you fell into one, you'd experience 'spaghettification'. Not recommended, dude!"
+        ]
+    },
+    "weather": {
+        "inputs": ["weather", "is it raining"],
+        "responses": [
+            "I don't have a live radar, but check the sky! Hyderabad weather is always a surprise.",
+            "Whether it's sunny or rainy, it's always a good day to learn something new.",
+            "I hope the weather is pleasant enough for a nice walk or a cup of chai!"
+        ]
+    }
+}
