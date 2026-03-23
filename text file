@@ -1,0 +1,14 @@
+Enable/Disable Automatic Start on Boot
+To Enable (starts every time it turns on):
+bash
+sudo systemctl enable voice_assistant.service
+To Disable (stops starting at boot):
+bash
+sudo systemctl disable voice_assistant.service
+
+
+🛠️ Manual Control (For right now)
+Start the assistant now: sudo systemctl start voice_assistant.service
+Stop the assistant now: sudo systemctl stop voice_assistant.service
+Check if it's running: sudo systemctl status voice_assistant.service
+Restart the assistant: sudo systemctl restart voice_assistant.service
